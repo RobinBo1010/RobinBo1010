@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RobinBo1010
+- 👋 Hi, I’m @RobinBo1010 (he/him)
 - 👀 I’m interested in learning the basics of coding, programming, games, apps, java, swift,
 - 🌱 I’m currently learning the basics 
 - 💞️ I’m looking to collaborate on ____
